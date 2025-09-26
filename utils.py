@@ -107,3 +107,5 @@ def vrp_routes_cost(routes: List[List[int]], D: np.ndarray) -> float:
             prev = c
         total += D[prev, 0]
     return total
+
+
