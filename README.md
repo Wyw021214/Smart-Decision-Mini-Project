@@ -52,15 +52,18 @@ An evolutionary algorithm that simulates natural selection by applying crossover
 
 Install dependencies:
 
+'''bash
 pip install -r requirements.txt
-
+'''
 
 Run experiments:
 
+'''bash
 python run_experiments.py
-
+'''
 
 Launch the Streamlit app locally:
 
+'''bash
 streamlit run app.py
-
+'''
